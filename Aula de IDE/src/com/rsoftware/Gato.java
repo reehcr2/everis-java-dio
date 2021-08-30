@@ -4,13 +4,6 @@ public class Gato {
 	private String nome;
 	private String raca;
 	private int idade;
-	
-	public Gato(String nome, String raca, int idade) {
-		super();
-		this.nome = nome;
-		this.raca = raca;
-		this.idade = idade;
-	}
 
 	public String getNome() {
 		return nome;
